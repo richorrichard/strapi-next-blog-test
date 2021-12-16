@@ -1,3 +1,3 @@
 # Strapi application
 
-This is a test version
+TODO: Add instructions for running strapi
